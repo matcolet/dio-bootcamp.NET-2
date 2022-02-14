@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ExPilaresOO.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ExPilaresOO.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ExPilaresOO.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ExPilaresOO.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ref\ExPilaresOO.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\bin\Debug\net6.0\ExPilaresOO.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ref\ExPilaresOO.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\01 - Pilares OO\ExPilaresOO\obj\Debug\net6.0\ExPilaresOO.genruntimeconfig.cache

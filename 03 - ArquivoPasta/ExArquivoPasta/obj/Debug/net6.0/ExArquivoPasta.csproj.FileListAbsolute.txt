@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ExArquivoPasta.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ExArquivoPasta.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ExArquivoPasta.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ExArquivoPasta.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ref\ExArquivoPasta.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\bin\Debug\net6.0\ExArquivoPasta.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ref\ExArquivoPasta.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\03 - ArquivoPasta\ExArquivoPasta\obj\Debug\net6.0\ExArquivoPasta.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ExConstrutores.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ExConstrutores.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ExConstrutores.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ExConstrutores.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ref\ExConstrutores.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\bin\Debug\net6.0\ExConstrutores.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ref\ExConstrutores.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\Construtores\ExConstrutores\obj\Debug\net6.0\ExConstrutores.genruntimeconfig.cache

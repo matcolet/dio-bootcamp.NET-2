@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ColecaoLINQ.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ColecaoLINQ.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ColecaoLINQ.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ColecaoLINQ.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ref\ColecaoLINQ.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\bin\Debug\net6.0\ColecaoLINQ.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ref\ColecaoLINQ.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\04 - ColecaoLINQ\ColecaoLINQ\obj\Debug\net6.0\ColecaoLINQ.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\Desafio.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\Desafio.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\Desafio.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\Desafio.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\ref\Desafio.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\bin\Debug\net6.0\Desafio.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\ref\Desafio.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\05 - Desafio\Desafio\obj\Debug\net6.0\Desafio.genruntimeconfig.cache

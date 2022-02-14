@@ -1,0 +1,15 @@
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\Series.exe
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\Series.deps.json
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\Series.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\ref\Series.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\bin\Debug\net6.0\Series.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\ref\Series.dll
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.pdb
+E:\Cursos Online\Web.dio\Developer .net\Code\06 - Series\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
