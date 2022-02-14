@@ -1,0 +1,2 @@
+# Desafio do curso em C#
+Criando um algoritmo simples de cadastro de séries para praticar os conhecimentos de orientação a objetos, o principal paradigma de programação. Algoritmo modelado utilizando recursos de coleção para salvar os em memória.
